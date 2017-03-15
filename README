@@ -1,0 +1,13 @@
+Steps to use this tutorial :
+
+Intall the latest version of ignition-transport. This requires ignition-transport3.
+
+Follow http://ignition-transport.readthedocs.io/en/default/installation/installation.html and install from source, to have the latest version. Before that, you need to setup to accept packages from the packages.osrfoundation.org. ( Read top of the article)
+
+Clone this repo.
+
+Follow instructions on http://ignition-transport.readthedocs.io/en/default/messages/messages.html
+
+
+Any problem, send a mail. 
+You should know how to stalk on git :P
